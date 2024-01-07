@@ -9,4 +9,6 @@ Projeto desenvolvido com o objetivo de aprender a criar uma página HTML respons
 - CSS
 - JavaScript
 
+# 💻 Onde acessar o projeto
+<a href="https://maria-faria.github.io/LandingPage/" target="_blank">Clique aqui para visualizar o projeto</a>
 
